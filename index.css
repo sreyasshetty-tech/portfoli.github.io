@@ -1,0 +1,70 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #303636;
+    color: white;
+    border-radius: 14px;
+}
+
+.navbar-toggler {
+    background-color: #88a8a8;
+    opacity: 1px;
+}
+
+.container>homestyle {
+    border: 1px solid;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+.nav-item {
+    float: right;
+}
+
+.k {
+    margin-left: 150px;
+}
+
+.k>button {
+    margin-left: 9px;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+p {
+    padding: 20px;
+}
+
+.col-sm-4 {
+    padding-bottom: 40px;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.footstyling {
+    background-color: black;
+    color: white;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10PX;
+    ;
+}
+
+.footstyling>h1 {
+    margin: 15px;
+}
+
+.card {
+    padding: 10px;
+    margin: 10px;
+}
